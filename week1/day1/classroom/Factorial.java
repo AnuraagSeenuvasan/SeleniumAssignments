@@ -37,9 +37,9 @@ public class Factorial {
 		
 
 		// Print factorial (fact)
-		int n=5,output=1;
-		for(int i=1;i<=n;i++) {
-			output=output*i;
+		int n = 5, output = 1;
+		for (int i = 1; i <= n; i++) {
+			output = output * i;
 		}
 		System.out.println(output);
 	
